@@ -18,3 +18,6 @@ let someChanges = (isLogIn) => {
 const testVariable = () => {
     return false
 }
+
+let addCourse = document.createElement('h2')
+
