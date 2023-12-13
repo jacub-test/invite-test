@@ -15,4 +15,6 @@ let someChanges = (isLogIn) => {
     return false
 }
 
-const testVariable = () => false
+const testVariable = () => {
+    return false
+}
